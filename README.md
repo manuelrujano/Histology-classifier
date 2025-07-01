@@ -75,14 +75,6 @@ The final Keras model is converted into a `.tflite` format using TensorFlow Lite
 
 ![image](https://github.com/user-attachments/assets/e1860e04-1037-4271-b971-55f101e14d51)
 
-
-
----
-
-### 📁 Directory Structure
-```markdown /HistologyClassifier/ ├── train_model.py ├── best_model.h5 ├── model5.tflite ├── labels.txt └── README.md ```
-
-
 ---
 
 > 💡 **Tip:** To retrain the model or adapt it to a new dataset, edit the data path and class count in the training script.
