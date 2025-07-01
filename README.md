@@ -36,15 +36,7 @@ We apply real-time data augmentation to increase generalization and robustness:
 
 ### 🏗️ Model Architecture
 
-/Input Images (224x224x3)
-↓
-MobileNetV2 (pretrained, last 4 layers trainable)
-↓
-GlobalAveragePooling2D
-↓
-Dense(1024, ReLU)
-↓
-Dense(18, Softmax)/
+<pre> ```markdown Input Images (224x224x3) ↓ MobileNetV2 (pretrained, last 4 layers trainable) ↓ GlobalAveragePooling2D ↓ Dense(1024, ReLU) ↓ Dense(18, Softmax) ``` </pre>
 
 
 ---
@@ -80,13 +72,7 @@ The final Keras model is converted into a `.tflite` format using TensorFlow Lite
 ---
 
 ### 📁 Directory Structure
-
-/HistologyClassifier/
-├── train_model.py
-├── best_model.h5
-├── model5.tflite
-├── labels.txt
-└── README.md
+<pre> ```markdown /HistologyClassifier/ ├── train_model.py ├── best_model.h5 ├── model5.tflite ├── labels.txt └── README.md ``` </pre>
 
 
 ---
