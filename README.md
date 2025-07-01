@@ -10,7 +10,7 @@ This section describes the training pipeline used to build the core models for t
 
 The classification model is built using **transfer learning** on the **MobileNetV2** architecture, pre-trained on ImageNet. We fine-tuned the last few layers and added custom dense layers for classifying 5 histology categories.
 
-![ChatGPT Image Jul 1, 2025, 10_04_10 PM](https://github.com/user-attachments/assets/432d33dd-8598-436a-a17a-7459aeaa15e3)
+![file_000000000f88624698457ef2257145c9 (3)](https://github.com/user-attachments/assets/e1a64694-ee54-453b-9d66-89af0e9da441)
 
 
 ---
