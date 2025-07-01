@@ -73,6 +73,9 @@ Dense(18, Softmax)
 
 The final Keras model is converted into a `.tflite` format using TensorFlow Lite, enabling efficient mobile or embedded deployment.
 
+![image](https://github.com/user-attachments/assets/9bf38d18-a070-4be8-828c-0ee1cf1d578c)
+
+
 ---
 
 ### 📁 Directory Structure
