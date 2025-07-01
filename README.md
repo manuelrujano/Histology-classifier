@@ -36,15 +36,15 @@ We apply real-time data augmentation to increase generalization and robustness:
 
 ### 🏗️ Model Architecture
 
--Input Images (224x224x3)
--↓
--MobileNetV2 (pretrained, last 4 layers trainable)
--↓
--GlobalAveragePooling2D
--↓
--Dense(1024, ReLU)
--↓
--Dense(18, Softmax)
+/Input Images (224x224x3)
+↓
+MobileNetV2 (pretrained, last 4 layers trainable)
+↓
+GlobalAveragePooling2D
+↓
+Dense(1024, ReLU)
+↓
+Dense(18, Softmax)/
 
 
 ---
