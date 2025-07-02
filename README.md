@@ -12,9 +12,6 @@ The classification model is built using **transfer learning** on the **MobileNet
 
 ![file_000000000f88624698457ef2257145c9 (3)](https://github.com/user-attachments/assets/e1a64694-ee54-453b-9d66-89af0e9da441)
 
-![image](https://github.com/user-attachments/assets/e1860e04-1037-4271-b971-55f101e14d51)
-
-
 ---
 
 ### 📊 Dataset
