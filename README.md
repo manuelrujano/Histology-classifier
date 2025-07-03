@@ -2,7 +2,7 @@
 
 ## 🧠 Model Training: Histology Classifier Core
 
-This section describes the training pipeline used to build the core models for the **Histology Classifier App**, leveraging transfer learning with MobileNetV2.
+This section describes the training pipeline used to build the core models for the **Histology Classifier App**, utilizing transfer learning with MobileNetV2.
 
 ---
 
