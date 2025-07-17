@@ -1,8 +1,8 @@
-# Histology-classifier
+# Histology-classifier, convolutional neural network (CNN) model training
 
 The publication based on this project can be found here: https://doi.org/10.1007/s40670-021-01206-0
 
-## 🧠 Model Training: Histology Classifier Core Models 
+## 🧠 Model Training 
 
 This section describes the training pipeline used to build the core models for the **Histology Classifier App**, utilizing transfer learning with MobileNetV2.
 
