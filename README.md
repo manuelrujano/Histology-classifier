@@ -1,6 +1,6 @@
 # Histology-classifier
 
-The link to the publication based on this project is found here: Link https://doi.org/10.1007/s40670-021-01206-0
+The publication based on this project can be found here: https://doi.org/10.1007/s40670-021-01206-0
 
 ## 🧠 Model Training: Histology Classifier Core Models 
 
