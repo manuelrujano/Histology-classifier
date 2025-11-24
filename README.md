@@ -1,12 +1,12 @@
 # Histology-classifier, convolutional neural network (CNN) model training
 
-The publication based on this project can be found here: https://doi.org/10.1007/s40670-021-01206-0
+After training the CNN model I included them in an proof-of-concept App which I published here: https://doi.org/10.1007/s40670-021-01206-0
 
 ![image](https://github.com/user-attachments/assets/e1860e04-1037-4271-b971-55f101e14d51)
 
 ## 🧠 Model Training 
 
-This section describes the training pipeline used to build the core models for the **Histology Classifier App**, utilizing transfer learning with MobileNetV2.
+This section describes the training pipeline for similar models as the ones used for the **Histology Classifier App**, utilizing transfer learning with MobileNetV2.
 
 ---
 
